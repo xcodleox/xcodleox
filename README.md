@@ -1,16 +1,38 @@
 ## Hi there 👋
+ <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="3500px" max-width="350px" width="350px" align="right" alt="Computador iuriCode">
 
-<!--
-**xcodleox/xcodleox** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+<p align="left">
+   Linquagens: <strong>HTML, CSS, JavaScript, React.JS, Node.JS, Next.JS, TypesScript, Tailwind CSS.</strong>
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="left">
+  🔗 Outros: <strong>Vs code, Git/GitHub, Docker/Sequelize(postgreSQL)/Mongo </strong>
+</p>
+
+
+<div>  
+     <a href="https://www.linkedin.com/in/xcodleox/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+     <a href="https://wa.me/5571992904139" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" target="_blank"></a>
+ </div>
+ 
+ <br>
+  
+ <br> <br>
+  
+ <div align="center">
+  <a href="https://github.com/xcodleox">
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=xcodleox&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=xcodleox&layout=compact&langs_count=7&theme=dracula"/>
+
+  </div>
+  
+  <br>
+  
+[![Minhas Habilidades](https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,nodejs,mongodb,postgres,docker,materialui,styledcomponents,express,git,figma,powershell,vscode
+)](https://skillicons.dev)
+  
+  ##
+  
+  
+
