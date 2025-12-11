@@ -28,7 +28,7 @@
   
   <br>
   
-[![Minhas Habilidades](https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,nodejs,mongodb,postgres,docker,materialui,styledcomponents,express,git,figma,powershell,vscode
+[![Minhas Habilidades](https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,nodejs,mongodb,postgres,docker,materialui,styledcomponents,express,git,figma,powershell,vscode,angular
 )](https://skillicons.dev)
   
   ##
