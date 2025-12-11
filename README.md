@@ -3,7 +3,7 @@
 
 
 <p align="left">
-   Linquagens: <strong>HTML, CSS, JavaScript, React.JS, Node.JS, TypesScript.</strong>
+   Linquagens: <strong>HTML, CSS, JavaScript, React.JS, Angular, Node.JS, TypesScript.</strong>
 </p>
 
 <p align="left">
